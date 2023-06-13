@@ -7,3 +7,7 @@
 HuggingFace Transformers: https://huggingface.co/docs/transformers/main/transformers_agents
 
 AWS SageMaker: https://aws.amazon.com/es/sagemaker/
+
+## Publicación:
+
+https://dev.to/gcjordi/huggingface-transformers-tool-demo-for-aws-community-builders-hackathon-june-2023-54g6
